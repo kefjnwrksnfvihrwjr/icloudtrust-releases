@@ -4,12 +4,12 @@
         <title>iCloud Trust</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Sun, 01 Mar 2026 12:59:22 -0500</pubDate>
-            <sparkle:version>6</sparkle:version>
+            <pubDate>Sun, 01 Mar 2026 13:16:44 -0500</pubDate>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kefjnwrksnfvihrwjr/icloudtrust-releases/releases/download/v0.1.0/iCloud-Trust-0.1.0.zip" length="1694509" type="application/octet-stream" sparkle:edSignature="qcFs+Uk0cbOjbU3xOCoVqw3q9LbxRgrsqoOH5DQQ5BIfCUhjw1wJfSg7SqeC7mlcJ2LLib/soWtuXTJm0q6ECA=="/>
+            <enclosure url="https://github.com/kefjnwrksnfvihrwjr/icloudtrust-releases/releases/download/v0.1.0/iCloud-Trust-0.1.0.zip" length="1694478" type="application/octet-stream" sparkle:edSignature="cK8M6t+gcVekRMqcA6/rkY00SW/04g0oNP4D0RLuAmE79dKiYqT2OK14vtbNZbCJbLolrTLVO3hmtZymHBvhAA=="/>
         </item>
     </channel>
 </rss>
